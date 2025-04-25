@@ -4,20 +4,20 @@
       cellpadding: 1px;
       width: 80%;
       margin: 20px auto;
-    }
-    td {
-      border: 1px solid black;
-      padding: 5px;
-    }
+}
+td {
+	border: 1px solid black;
+    padding: 1px;
+}
     .center {
       text-align: center;
     }
-    .right {
-      text-align: right;
-    }
-    .green {
-      background-color: green;
-    }
-    .blue {
-      background-color: blue;
-    }
+.right {
+  text-align: right;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
